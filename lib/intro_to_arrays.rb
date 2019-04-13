@@ -17,4 +17,3 @@ end
 def my_last_element(array)
   array[-1]
 end
-
